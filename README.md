@@ -15,7 +15,7 @@ Before running the script, make sure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/instagram-follower-bot.git
+    git clone https://github.com/Joy9001/Instagram-Follower-Scrapper-Bot.git
     ```
 
 2. Install the required dependencies:
